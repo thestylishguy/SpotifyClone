@@ -6,7 +6,13 @@ _Spotify is a music player website/app, on this website/app you can listen to yo
 
 ## Screenshots for preview ✨
 
-![ss1](IMG_20241102_160817_472.jpg)
+### Desktop
+
+![desktop](desktop.png)
+
+### Mobile
+
+![mobile](mobile.png)
 
 ## Built With ❤️
 
