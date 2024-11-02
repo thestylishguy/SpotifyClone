@@ -2,6 +2,8 @@
 
 _Spotify is a music player website/app, on this website/app you can listen to your any favourite music. I cloned just the layout of spotify using HTML, CSS and JAVASCRIPT to learn the concepts of web development more clearly 🖤._
 
+  <a href="https://thestylishguy.github.io/SpotifyClone/"><strong>➥ Live Demo</strong></a>
+
 ## Screenshots for preview ✨
 
 ![ss1](IMG_20241102_160817_472.jpg)
