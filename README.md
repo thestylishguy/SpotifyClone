@@ -1,10 +1,10 @@
 # Spotify Clone 🎵
 
-_Spotify is a music player website/app, on this website/app you can listen to your any favourite music. I cloned just the layout of spotify using HTML, CSS and JAVASCRIPT to learn the concepts of web development more clearly 🖤.*_
+_Spotify is a music player website/app, on this website/app you can listen to your any favourite music. I cloned just the layout of spotify using HTML, CSS and JAVASCRIPT to learn the concepts of web development more clearly 🖤._
 
 ## Screenshots for preview ✨
 
-![ss1](https://te.legra.ph/file/f8b987f85aac12d4f691b-4555ff2ca8108facd5.jpg)
+![ss1](IMG_20241102_160817_472.jpg)
 
 ## Built With ❤️
 
