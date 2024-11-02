@@ -1,22 +1,22 @@
-# Spotify Clone
+# Spotify Clone 🎵
 
-Spotify is a music player app, on this app you can listen to your any favourite music. I cloned just the layout of spotify using HTML, CSS and JAVASCRIPT to learn the concepts of web development more clearly.
+Spotify is a music player website/app, on this website/app you can listen to your any favourite music. I cloned just the layout of spotify using HTML, CSS and JAVASCRIPT to learn the concepts of web development more clearly 🖤.
 
-## Screenshots for preview
+## Screenshots for preview ✨
 
 ![ss1](https://te.legra.ph/file/f8b987f85aac12d4f691b-4555ff2ca8108facd5.jpg)
 
-## Built With
+## Built With ❤️
 
 * [HTML](https://en.wikipedia.org/wiki/HTML) - I used HTML in my Spotify clone to make CSS and JS file work in the website and also to make a skeleton of the website.
 * [CSS](https://en.wikipedia.org/wiki/CSS) - I used CSS for adding awesome and attractive designs to my website.
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - I used JavaScript to make the Spotify music player work logically perfect.
 
-## Contributing
+## Contributing 🥀
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 
 
-## Pull Request Process
+## Pull Request Process 🌟
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
 
@@ -24,9 +24,9 @@ When contributing to this repository, please first discuss the change you wish t
 
 3. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to d# TicTacToeGame.
 
-## Authors
+## Authors 💜
 
-* **Arjun** - *Initial work* - [Arjun](https://github.com/thestylishguy)
+* **Arjun 💗** - *Initial work* - [Arjun](https://github.com/thestylishguy)
 
 ## License
 
